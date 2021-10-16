@@ -1,0 +1,24 @@
+#heading{
+    color: yellow;
+    font-size: 30px;
+    font-style: italic;
+    margin: 30px;
+}
+
+.line {
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+    margin: 30px;
+    padding: 30px;
+    text-decoration: underline;
+}
+
+h1{
+    padding: 30px;
+}
+
+.profile{
+    padding: 30px;
+    margin: 30px;
+}
